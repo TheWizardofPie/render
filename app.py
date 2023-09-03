@@ -8,3 +8,5 @@ start_button = st.button('Run')
 
 if start_button:
     st.write(f'Running the experiment of {number_of_trials} trials.')
+
+st.write('It is not a functional application yet. Under construction.')
